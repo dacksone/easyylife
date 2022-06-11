@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=decive-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
-    <title>Iniciar - Easy Life</title>
+    <title>Iniciar - Easy Life222222</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 	  <link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
 	  <script src="https://kit.fontawesome.com/a81368914c.js"></script>
