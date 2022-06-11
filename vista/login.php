@@ -18,7 +18,7 @@
       <div class="login-content">
         <form class="login" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']) ?>" method="post" name="login">
           <img src="img/avatar.svg">
-          <h2 class="title">BIENVENIDO</h2>
+          <h2 class="title">BIENVENIDOSSSSSSSSSSSSS</h2>
                 <div class="input-div one">
                   <div class="i">
                       <i class="fas fa-user"></i>
